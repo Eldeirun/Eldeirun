@@ -30,5 +30,4 @@
     </ul>
   </li>
 </ul>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
+<img src = "![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)"

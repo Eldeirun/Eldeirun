@@ -30,4 +30,4 @@
     </ul>
   </li>
 </ul>
-<img src = "https://github-readme-stats.vercel.app/api?username=Eldeirun"
+<img src="https://github-readme-stats.vercel.app/api?username=Eldeirun">

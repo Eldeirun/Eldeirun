@@ -30,4 +30,4 @@
     </ul>
   </li>
 </ul>
-<img src="https://github-readme-stats.vercel.app/api?username=eldeirun&show_icons=true&cache_seconds=1800&format=svg" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eldeirun&show_icons=true" />

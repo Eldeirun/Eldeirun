@@ -5,7 +5,7 @@
 <hr>
 <ul>
   <li>Third-year Computer Engineering student at TED University</li>
-  <li>Aspiring low-level developer, game developer and app developer.</li>
+  <li>Aspiring fullstack and game developer</li>
   <li>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </li>
